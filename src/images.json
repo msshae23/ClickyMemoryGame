@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Food1",
+    "clicked": false,
+    "image":
+      "http://farmtofork.brenhub.com/content/images/thumbs/0000152_paleo-meals.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Food2",
+    "clicked": false,
+    "image":
+      "https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2F2017%2F01%2Fmain%2Fpaleo-sesame-chicken.jpg%3Fitok%3DSGiEs_je&w=700&q=85"
+  },
+  {
+    "id": 3,
+    "name": "Food3",
+    "clicked": false,
+    "image":
+      "http://eatdrinkpaleo.com.au/wp-content/uploads/2013/05/red_curry_snapper_ginger_carrots.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Food4",
+    "clicked": false,
+    "image":
+      "https://greatist.com/sites/default/files/PizzaSoup-1236_0.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Food5",
+    "clicked": false,
+    "image":
+      "https://i.ytimg.com/vi/AjU7nS6i1OA/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Food6",
+    "clicked": false,
+    "image":
+      "http://www.trimmedandtoned.com/wp-content/uploads/2015/04/41.-Chicken-Broth.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Food7",
+    "clicked": false,
+    "image":
+      "https://i1.wp.com/www.paleonewbie.com/wp-content/uploads/2016/08/paleo-newbie-beef-chorizo-sliders-1266x850.jpg?fit=1266%2C850"
+  },
+  {
+    "id": 8,
+    "name": "Food8",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaixrOVdtgo_rI6vQ8ncor30Gs1B1eH-DvSAxBoWOtKOiU9LSv"
+  },
+  {
+    "id": 9,
+    "name": "Food9",
+    "clicked": false,
+    "image":
+      "https://thepaleodiet.com/wp-content/uploads/2015/06/summer-salads-4.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Food10",
+    "clicked": false,
+    "image":
+      "https://i0.wp.com/www.paleonewbie.com/wp-content/uploads/2015/01/Paleonewbie-paleo-stuffed-potato-chicken-1266x850.jpg?fit=1266%2C850"
+  },
+  {
+    "id": 11,
+    "name": "Food11",
+    "clicked": false,
+    "image":
+      "http://www.sunfare.com/Images/Visitor/paleo/1.2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Food12",
+    "clicked": false,
+    "image":
+      "https://www.wholefoodsmarket.com/sites/default/files/styles/header_hero/public/media/Paleo.jpg?itok=eOq7o21V"
+  },
+  {
+    "id": 13,
+    "name": "Food13",
+    "clicked": false,
+    "image":
+      "https://d2culxnxbccemt.cloudfront.net/ghu/content/uploads/2017/12/12103703/Paleo-4.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Food14",
+    "clicked": false,
+    "image":
+      "https://amindfullmom.com/wp-content/uploads/2017/09/Skillet-Tilapia-Veracruz-1-of-1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Food15",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQHwtO47rBoYJpiXGZaIkVrczuvLgYkkFXhMRo9F0O0lUrB1nwA"
+  },
+  {
+    "id": 16,
+    "name": "Food16",
+    "clicked": false,
+    "image":
+      "http://healthymealplandelivery.com/content/images/thumbs/0002807_paleo-meals.jpeg"
+  }
+]
